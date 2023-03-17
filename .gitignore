@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# files
+/.vs
+**/*.vcxproj.*
+**/*.vcxproj
+*.sln
+**/*.i
+**/*.obj
